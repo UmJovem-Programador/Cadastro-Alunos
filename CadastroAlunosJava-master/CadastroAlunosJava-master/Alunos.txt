@@ -1,0 +1,6 @@
+nome;sexo;idade;matricula;ano;
+Lucas;m;22;10;2020;
+Pedro;m;23;11;2019;
+Livia;f;21;12;2021;
+Expedito;m;22;13;2023;
+Paulo;m;23;18;2023;
